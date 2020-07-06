@@ -27,6 +27,13 @@
 }
 
 .label {
-  text-align: center;
+  width: 35%;
+  display: inline-block;
+  text-align: right;
   padding: 0px 10px;
+}
+
+.input-group {
+  width: 100%;
+  margin-bottom: 20px;
 }
